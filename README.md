@@ -1,22 +1,22 @@
 ## README PLZ
 
-Intro to ionic:
--- quick to get started
--- plays pretty well with angular
--- build native mobile apps with web languages
+#### Intro to ionic:
+- quick to get started
+- plays pretty well with angular
+- build native mobile apps with web languages
 
-Why use angular:
--- two way data binding, especially sexy with mobile reactivity
--- modularity and compartmentalization
--- very easy to share information across views
+#### Why use angular:
+- two way data binding, especially sexy with mobile reactivity
+- modularity and compartmentalization
+- very easy to share information across views
 
 What's the point?
-Ionic comes with nice built-in styles.
-Like twitter's bootstrap, looks very basic
-Need to structure the app in an angular-friendly way that enhances compartmentalization
-Need to style these things accordingly
-Need to be able to quickly override basic components to prototype quickly
-Need to be able to use CSS pre-processors like SASS (this only really supports Sass but easy to rewrite to support LESS)
+- Ionic comes with nice built-in styles.
+- Like twitter's bootstrap, looks very basic
+- Need to structure the app in an angular-friendly way that enhances compartmentalization
+- Need to style these things accordingly
+- Need to be able to quickly override basic components to prototype quickly
+- Need to be able to use CSS pre-processors like SASS (this only really supports Sass but easy to rewrite to support LESS)
 
 ## File Structure
 
